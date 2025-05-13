@@ -1,8 +1,8 @@
 {
     "name": "blakroku/countries",
-    "description": "Simple country management package for PHP",
+    "description": "A lightweight PHP package that provides country data with powerful lookup functionality. Easily retrieve country details by name, code, domain extension, calling code, currency, and capital, all from a single source of truth.",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Blakroku\\Countries\\": "src/"
