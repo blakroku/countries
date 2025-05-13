@@ -1,0 +1,62 @@
+[
+    {
+      "code": "AS",
+      "name": "Asia",
+      "subregions": [
+        {"code": "SAS", "name": "Southern Asia"},
+        {"code": "EAS", "name": "Eastern Asia"},
+        {"code": "SEA", "name": "Southeastern Asia"},
+        {"code": "WAS", "name": "Western Asia"},
+        {"code": "CAS", "name": "Central Asia"}
+      ]
+    },
+    {
+      "code": "AF",
+      "name": "Africa",
+      "subregions": [
+        {"code": "NOR", "name": "Northern Africa"},
+        {"code": "SAS", "name": "Sub-Saharan Africa"},
+        {"code": "EAF", "name": "Eastern Africa"},
+        {"code": "WAF", "name": "Western Africa"},
+        {"code": "CAF", "name": "Central Africa"},
+        {"code": "SAF", "name": "Southern Africa"}
+      ]
+    },
+    {
+      "code": "EU",
+      "name": "Europe",
+      "subregions": [
+        {"code": "EEC", "name": "Eastern Europe"},
+        {"code": "NCE", "name": "Northern Europe"},
+        {"code": "WCE", "name": "Western Europe"},
+        {"code": "SCE", "name": "Southern Europe"}
+      ]
+    },
+    {
+      "code": "NA",
+      "name": "North America",
+      "subregions": [
+        {"code": "MNA", "name": "Middle America"},
+        {"code": "CNA", "name": "Caribbean"},
+        {"code": "RNA", "name": "Northern America"}
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "South America",
+      "subregions": [
+        {"code": "CNA", "name": "Central America"},
+        {"code": "SNA", "name": "Southern America"}
+      ]
+    },
+    {
+      "code": "OC",
+      "name": "Oceania",
+      "subregions": [
+        {"code": "AUS", "name": "Australia and New Zealand"},
+        {"code": "MEL", "name": "Melanesia"},
+        {"code": "POL", "name": "Polynesia"},
+        {"code": "MIC", "name": "Micronesia"}
+      ]
+    }                                                                        
+]

@@ -1,0 +1,24 @@
+{
+    "name": "blakroku/countries",
+    "description": "Simple country management package for PHP",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Blakroku\\Countries\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kwame Adoko",
+            "email": "blakroku@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
