@@ -10,10 +10,6 @@ composer require blakroku/countries
 
 ## Usage
 
-use Blakroku\Countries\CountryManager;
-
-$manager = new CountryManager();
-
 ```php
 use Blakroku\Countries\Countries\CountryManager;
 
