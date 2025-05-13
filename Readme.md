@@ -55,5 +55,24 @@ Each lookup method returns a Country object or null if no match is found.
 
 - Composer
 
+
+### Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+### Security
+
+If you discover any security related issues, please email blakroku@gmail.com instead of using the issue tracker.
+
+## Credits
+
+-   [Kwame Adoko](https://github.com/blakroku)
+-   [All Contributors]()
+
 ## License
-MIT License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
